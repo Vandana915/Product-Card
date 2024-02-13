@@ -11,8 +11,10 @@ You can explore the live demo of the Product Card[🔗links]( https://vandana915
 
 
 ##  Built with
-* HTML
-+ CSS
+* Semantic HTML5 markup
++ Flexbox
+- Grid
+* Responsive Design
 
 
 ## What I learned
